@@ -1,0 +1,18 @@
+Sounds
+
+- boot up sound
+
+- Mouse Swipe (memory segment HL)
+
+- selecting memory segment
+
+- Guitar bass string hum (BG Hum)
+- Keyboard Clattering (Text Appearing)
+
+- memory loading in sound
+- entering memory sound
+- exiting memory sound
+- animus loading in after exiting memory
+- background noise when loading
+- highlighting menu buttons
+- selecting menu buttons
